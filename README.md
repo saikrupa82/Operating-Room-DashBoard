@@ -37,6 +37,9 @@ Operation Theater Insights is a comprehensive data visualization project aimed a
 
 You can find the dataset and the Power BI file on GitHub:
 - [GitHub Repository](https://github.com/saikrupa82/Operation-Theater-Insights)
+### Additional Resources
+
+You can read more about this project and its analysis on Medium: [Link to Medium Post](https://medium.com/@saikrupar82/analyzing-operation-theater-insights-with-data-visualization-1ee68f56627d)
 
 ## Installation
 
